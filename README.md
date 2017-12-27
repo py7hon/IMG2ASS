@@ -1,6 +1,6 @@
 # IMG2ASS
 
-`Changelog: 
+## Changelog: 
 Changes since v0.5:
  * fix: Top position scrollbar would not reset maximum value.
  * new: Added possibility to add extra override commands to each generated line.
@@ -28,4 +28,3 @@ Changes since v0.2 (not released):
 Changes since v0.1 (initial release):
  * Added binary transparency support.
  * Improved code.
-`
